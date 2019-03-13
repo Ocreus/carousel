@@ -1,7 +1,7 @@
 {
-    "img1": "../img/bottom.jpg",
-    "img2": "../img/brain.jpg",
-    "img3": "../img/left.jpg",
-    "img4": "../img/middle.jpg",
-    "img5": "../img/tafel.jpg"
+    "img1": "./img/bottom.jpg",
+    "img2": "./img/brain.jpg",
+    "img3": "./img/left.jpg",
+    "img4": "./img/middle.jpg",
+    "img5": "./img/tafel.jpg"
 }
